@@ -21,7 +21,7 @@
                                     Together, we accomplish what no one can achieve alone - pushing boundaries,
                                     <br>creating solutions, driving progress.
                                 </p>
-                                <a href="{{ route('contact') }}" class="cbtn cbnt1 fadeInDown animated">
+                                <a href="contact.html" class="cbtn cbnt1 fadeInDown animated">
                                     Getting Started <i class="fal fa-angle-right"></i>
                                 </a>
                             </div>
@@ -42,8 +42,8 @@
                                     Empowering Your Brand with WordPress - Where Design Meets
                                     <br>Functionality for Exceptional Results.
                                 </p>
-                                <a href="{{ route('contact') }}" class="cbtn cbnt1 fadeInDown animated">Getting Started
-                                    <i class="fal fa-angle-right"></i></a>
+                                <a href="contact.html" class="cbtn cbnt1 fadeInDown animated">Getting Started <i
+                                        class="fal fa-angle-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -279,25 +279,25 @@
             <div class="row">
                 <ul id="da-thumbs" class="da-thumbs portfolio-carousel owl-carousel">
                     <li>
-                        <a href="{{ route('home') }}">
+                        <a href="portfolio.html">
                             <img src="{{ url('public/assets/img/project/project1.png')}}" alt="">
                             <div><span>Working Project</span></div>
                         </a>
                     </li>
                     <li>
-                        <a href="{{ route('home') }}">
+                        <a href="portfolio.html">
                             <img src="{{ url('public/assets/img/project/project2.png')}}" alt="">
                             <div><span>Working Project</span></div>
                         </a>
                     </li>
                     <li>
-                        <a href="{{ route('home') }}">
+                        <a href="portfolio.html">
                             <img src="{{ url('public/assets/img/project/project3.png')}}" alt="">
                             <div><span>Working Project</span></div>
                         </a>
                     </li>
                     <li>
-                        <a href="{{ route('home') }}">
+                        <a href="portfolio.html">
                             <img src="{{ url('public/assets/img/project/project4.png')}}" alt="">
                             <div>
                                 <span>Working Project</span>
@@ -305,7 +305,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="{{ route('home') }}">
+                        <a href="portfolio.html">
                             <img src="{{ url('public/assets/img/project/project2.png')}}" alt="">
                             <div>
                                 <span>Working Project</span>
@@ -317,6 +317,248 @@
         </div>
     </div>
     <!--:::::PROJECT AREA END :::::::-->
+
+    <!--:::::TESTIMONIALS AREA START :::::::-->
+    <!-- <div class="testimonials-area testimonials-area1 section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5 align-self-center">
+                        <div class="heading white">
+                            <strong class="filltext">Testimonials</strong>
+                            <small>Testimonials</small>
+                            <h2>Happy Clients TO <span>says</span></h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 align-self-center">
+                        <div class="info-content">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ratione reprehenderit </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="space-60"></div>
+                <div class="row">
+                    <div class="col-lg-10 m-auto">
+                        <div class="testimonials owl-carousel">
+                            <div class="testimonial">
+                                <div class="testimonial-img animated fadeInLeft">
+                                    <img src="{{ url('public/assets/img/author/testimonial1.jpg')}}" alt="">
+                                </div>
+                                <div class="testimonial-text animated fadeInDown">
+                                    <img src="{{ url('public/assets/img/icon/quote.png')}}" alt="">
+                                    <h4>Gilroy is a great and super-professional service provider, which brought new
+                                        technologes, new methodology, and a fresh perspective to our project</h4>
+                                    <p>Jack Metiyo Shina, NYC, USA</p>
+                                </div>
+                            </div>
+                            <div class="testimonial">
+                                <div class="testimonial-img">
+                                    <img src="{{ url('public/assets/img/author/testimonial1.jpg')}}" alt="">
+                                </div>
+                                <div class="testimonial-text">
+                                    <img src="{{ url('public/assets/img/icon/quote.png')}}" alt="">
+                                    <h4>Gilroy is a great and super-professional service provider, which brought new
+                                        technologes, new methodology, and a fresh perspective to our project</h4>
+                                    <p>Jack Metiyo Shina, NYC, USA</p>
+                                </div>
+                            </div>
+                            <div class="testimonial">
+                                <div class="testimonial-img">
+                                    <img src="{{ url('public/assets/img/author/testimonial1.jpg')}}" alt="">
+                                </div>
+                                <div class="testimonial-text">
+                                    <img src="{{ url('public/assets/img/icon/quote.png')}}" alt="">
+                                    <h4>Gilroy is a great and super-professional service provider, which brought new
+                                        technologes, new methodology, and a fresh perspective to our project</h4>
+                                    <p>Jack Metiyo Shina, NYC, USA</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+    <!--:::::TESTIMONIALS AREA END :::::::-->
+
+    <!--:::::PRICING AREA START :::::::-->
+    <!-- <div class="pricing-area pricing-area1 section-padding" id="price">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6 align-self-center">
+                        <div class="heading white">
+                            <strong class="filltext">payment</strong>
+                            <small>SPECIFICATIONS</small>
+                            <h2>All OUR PAYMENT <span>options</span></h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 align-self-center">
+                        <div class="info-content">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ratione reprehenderit </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="space-60"></div>
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="single-service">
+                            <div class="service-icon">
+                                <img src="{{ url('public/assets/img/icon/service1.svg')}}" alt="">
+                            </div>
+                            <div class="service-text">
+                                <h3>Influencer</h3>
+                                <h5>best for small investors</h5>
+                            </div>
+                            <div class="separator"></div>
+                            <div class="service-text">
+                                <h3>$104</h3>
+                                <h5>Per month</h5>
+                            </div>
+
+                            <a href="#" class="cbtn pricing-btn">read more <i class="fal fa-angle-right"></i></a>
+                            <div class="circles-wrap">
+                                <div class="circles">
+                                    <span class="circle circle-1"></span>
+                                    <span class="circle circle-2"></span>
+                                    <span class="circle circle-3"></span>
+                                    <span class="circle circle-4"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="single-service active">
+                            <div class="service-icon">
+                                <img src="{{ url('public/assets/img/icon/service2.svg')}}" alt="">
+                            </div>
+                            <div class="service-text">
+                                <h3>AGENCY</h3>
+                                <h5>best for small investors</h5>
+                            </div>
+                            <div class="separator"></div>
+                            <div class="service-text">
+                                <h3>$204</h3>
+                                <h5>Per month</h5>
+                            </div>
+                            <a href="#" class="cbtn pricing-btn">read more <i class="fal fa-angle-right"></i></a>
+                            <div class="circles-wrap">
+                                <div class="circles">
+                                    <span class="circle circle-1"></span>
+                                    <span class="circle circle-2"></span>
+                                    <span class="circle circle-3"></span>
+                                    <span class="circle circle-4"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="single-service">
+                            <div class="service-icon">
+                                <img src="{{ url('public/assets/img/icon/service3.svg')}}" alt="">
+                            </div>
+                            <div class="service-text">
+                                <h3>ENTERPRISE</h3>
+                                <h5>best for small investors</h5>
+                            </div>
+                            <div class="separator"></div>
+                            <div class="service-text">
+                                <h3>Let’s chart</h3>
+                                <h5>Per month</h5>
+                            </div>
+
+                            <a href="#" class="cbtn pricing-btn">read more <i class="fal fa-angle-right"></i></a>
+                            <div class="circles-wrap">
+                                <div class="circles">
+                                    <span class="circle circle-1"></span>
+                                    <span class="circle circle-2"></span>
+                                    <span class="circle circle-3"></span>
+                                    <span class="circle circle-4"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+    <!--:::::PRICING AREA END :::::::-->
+
+    <!--:::::BLOG AREA START :::::::-->
+    <!-- <div class="blog-area padding-top" id="blog">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5 align-self-center">
+                        <div class="heading white">
+                            <strong class="filltext">news & blog</strong>
+                            <small>RECENT NEWS DESK</small>
+                            <h2>lastet news & <span>blogs</span></h2>
+                        </div>
+                    </div>
+                    <div class="col-lg-5 align-self-center">
+                        <div class="info-content">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ratione reprehenderit </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="space-60"></div>
+                <div class="row">
+                    <div class="blogs owl-carousel">
+                        <div class="single-blog">
+                            <div class="single-blog-img">
+                                <img src="{{ url('public/assets/img/blog/team__1.png')}}" alt="">
+                            </div>
+                            <div class="blog-description">
+                                <p>September 28, 2019</p>
+                                <a href="single-blog.html">Hypnosis 12 Steps To Acquire Mind Power...</a>
+                                <a href="single-blog.html" class="readmore-btn"><i class="fal fa-arrow-right"></i> read
+                                    more</a>
+                            </div>
+
+                        </div>
+                        <div class="single-blog">
+                            <div class="single-blog-img">
+                                <div class="single-blog-img">
+                                    <img src="{{ url('public/assets/img/blog/team__2.png')}}" alt="">
+                                </div>
+                            </div>
+                            <div class="blog-description">
+                                <p>September 28, 2019</p>
+                                <a href="single-blog.html">Addiction When Gambling Becomes...</a>
+                                <a href="single-blog.html" class="readmore-btn"><i class="fal fa-arrow-right"></i> read
+                                    more</a>
+                            </div>
+
+                        </div>
+                        <div class="single-blog">
+                            <div class="single-blog-img">
+                                <div class="single-blog-img">
+                                    <img src="{{ url('public/assets/img/blog/team__3.png')}}" alt="">
+                                </div>
+                            </div>
+                            <div class="blog-description">
+                                <p>September 28, 2019</p>
+                                <a href="single-blog.html">Harness The Power Of Your Dreams...</a>
+                                <a href="single-blog.html" class="readmore-btn"><i class="fal fa-arrow-right"></i> read
+                                    more</a>
+                            </div>
+
+                        </div>
+                        <div class="single-blog">
+                            <div class="single-blog-img">
+                                <div class="single-blog-img">
+                                    <img src="{{ url('public/assets/img/blog/team__4.png')}}" alt="">
+                                </div>
+                            </div>
+                            <div class="blog-description">
+                                <p>September 28, 2019</p>
+                                <a href="single-blog.html">Addiction When Gambling Becomes...</a>
+                                <a href="single-blog.html" class="readmore-btn"><i class="fal fa-arrow-right"></i> read
+                                    more</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+    <!--:::::BLOG AREA END :::::::-->
 
 
     @include('layouts.subscribe-home')

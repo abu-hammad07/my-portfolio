@@ -5,7 +5,15 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('index');
-});
+})->name('home');
+
+// Route::get('/hammad', function () {
+//     return view('body');
+// });
+
+Route::get('/contact-us', function () {
+    return view('contact');
+})->name('contact');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
