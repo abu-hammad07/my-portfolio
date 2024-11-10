@@ -1,4 +1,3 @@
-<!--:::::FOOTER AREA START :::::::-->
 <div class="footer-area footer-area1 section-padding">
     <div class="container">
         <div class="row">
@@ -19,4 +18,3 @@
         </div>
     </div>
 </div>
-<!--:::::FOOTER AREA END :::::::-->

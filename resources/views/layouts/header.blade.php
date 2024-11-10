@@ -14,22 +14,24 @@
     <!--::::: support meta :::::::-->
 
     <!--::::: Favicon :::::::-->
-    <link href="{{ url('public/assets/img/favicon.ico')}}" rel="shortcut icon" type="image/x-icon">
-    <link href="{{ url('public/assets/img/favicon.ico')}}" rel="apple-touch-icon">
+    <link href="{{ url('public/assets/img/favicon.ico') }}" rel="shortcut icon" type="image/x-icon">
+    <link href="{{ url('public/assets/img/favicon.ico') }}" rel="apple-touch-icon">
 
     <!--::::: ALL CSS CALLING :::::::-->
     <link rel="stylesheet" href="{{ url('public/assets/css/plugins/animate.min.css') }}">
-    <link rel="stylesheet" href="{{ url('public/assets/css/plugins/bootstrap.min.css')}}">
-    <link rel="stylesheet" href="{{ url('public/assets/css/plugins/fontawesome.css')}}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="stylesheet" href="{{ url('public/assets/css/plugins/modal-video.min.css')}}">
-    <link rel="stylesheet" href="{{ url('public/assets/css/plugins/stellarnav.css')}}">
-    <link rel="stylesheet" href="{{ url('public/assets/css/plugins/owl.carousel.css')}}">
-    <link rel="stylesheet" href="{{ url('public/assets/css/typography.css')}}">
-    <link rel="stylesheet" href="{{ url('public/assets/css/theme.css')}}">
-    <link rel="stylesheet" href="{{ url('public/assets/css/button.css')}}">
-    <link rel="stylesheet" href="{{ url('public/assets/css/inner.css')}}">
-    <link rel="stylesheet" href="{{ url('public/assets/css/responsive.css')}}">
+    <link rel="stylesheet" href="{{ url('public/assets/css/plugins/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url('public/assets/css/plugins/fontawesome.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="{{ url('public/assets/css/plugins/modal-video.min.css') }}">
+    <link rel="stylesheet" href="{{ url('public/assets/css/plugins/stellarnav.css') }}">
+    <link rel="stylesheet" href="{{ url('public/assets/css/plugins/owl.carousel.css') }}">
+    <link rel="stylesheet" href="{{ url('public/assets/css/typography.css') }}">
+    <link rel="stylesheet" href="{{ url('public/assets/css/theme.css') }}">
+    <link rel="stylesheet" href="{{ url('public/assets/css/button.css') }}">
+    <link rel="stylesheet" href="{{ url('public/assets/css/inner.css') }}">
+    <link rel="stylesheet" href="{{ url('public/assets/css/responsive.css') }}">
 
 
 </head>

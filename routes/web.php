@@ -11,9 +11,18 @@ Route::get('/', function () {
 //     return view('body');
 // });
 
+
+
 Route::get('/contact-us', function () {
     return view('contact');
 })->name('contact');
+
+// Route::get('/index', function () {
+//     return view('contact');
+// })->name('contact');
+
+
+
 
 Route::get('/dashboard', function () {
     return view('dashboard');

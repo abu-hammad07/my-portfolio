@@ -68,9 +68,9 @@
                     <div class="stellarnav">
                         <ul class="navbarmneuclass">
                             <li><a href="{{ route('home') }}">Home</a></li>
-                            <li><a href="#about">About</a></li>
-                            <li><a href="#service">Service</a></li>
-                            <li><a href="#portfolio">Portfolio</a></li>
+                            <li><a href="{{ route('home') }}#about">About</a></li>
+                            <li><a href="{{ route('home') }}#service">Service</a></li>
+                            <li><a href="{{ route('home') }}#portfolio">Portfolio</a></li>
                             <li><a href="{{ route('contact') }}">Contact Us</a></li>
                         </ul>
                     </div>
