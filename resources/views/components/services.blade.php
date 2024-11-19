@@ -10,8 +10,9 @@
             </div>
             <div class="col-lg-6 align-self-center">
                 <div class="info-content">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ratione reprehenderit,
-                        error qui enim sit ex provident </p>
+                    <p>Offering innovative services and solutions tailored to meet diverse business needs with
+                        excellence and efficiency.
+                    </p>
                 </div>
             </div>
         </div>
@@ -23,9 +24,11 @@
                         <img src="{{ url('public/assets/img/icon/service1.svg') }}" alt="">
                     </div>
                     <div class="service-text">
-                        <h4>design principales</h4>
-                        <p>Need a project completed by an expert? Let’s go! Access a Human Resources Consultant
-                            to answer questions</p>
+                        <h4>E-commerce Development</h4>
+                        <p>
+                            Build custom CMS solutions or integrate platforms like WordPress for easy content
+                            management.
+                        </p>
                     </div>
                     <div class="circles-wrap">
                         <div class="circles">
@@ -43,9 +46,9 @@
                         <img src="{{ url('public/assets/img/icon/service2.svg') }}" alt="">
                     </div>
                     <div class="service-text">
-                        <h4>Unique Values</h4>
-                        <p>Need a project completed by an expert? Let’s go! Access a Human Resources Consultant
-                            to answer questions</p>
+                        <h4>(CMS) Development</h4>
+                        <p>Build custom CMS solutions or integrate existing platforms like WordPress for easy content
+                            management.</p>
                     </div>
                     <div class="circles-wrap">
                         <div class="circles">
@@ -63,9 +66,8 @@
                         <img src="{{ url('public/assets/img/icon/service3.svg') }}" alt="">
                     </div>
                     <div class="service-text">
-                        <h4>Style Components</h4>
-                        <p>Need a project completed by an expert? Let’s go! Access a Human Resources Consultant
-                            to answer questions</p>
+                        <h4>Responsive Website Design</h4>
+                        <p>Design mobile-first, user-friendly websites that work perfectly across all devices.</p>
                     </div>
                     <div class="circles-wrap">
                         <div class="circles">

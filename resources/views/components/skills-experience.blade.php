@@ -10,8 +10,11 @@
             </div>
             <div class="col-lg-6 align-self-center">
                 <div class="info-content">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint ratione reprehenderit,
-                        error qui enim sit ex provident </p>
+                    <p>
+                        {{--  Experienced PHP/Laravel developer skilled in building robust web applications, solving complex
+                        problems, and delivering efficient solutions.  --}}
+                        Skilled PHP/Laravel developer with expertise in web applications and problem-solving.
+                    </p>
                 </div>
             </div>
         </div>
@@ -19,37 +22,53 @@
         <div class="row">
             <div class="col-sm-6 col-lg-3">
                 <div class="skill-box">
-                    <small>2011 - 2014 (Ui designer)</small>
-                    <h5>Google Corporation.</h5>
-                    <p>All you need to do your best work together in one package works seamlessly computer</p>
+                    <small>2024 - Present (PHP/Laravel)</small>
+                    <h5>Doplexer Solutions (Software House)</h5>
+                    <p>
+                        {{--  All you need to do your best work together in one package works seamlessly computer  --}}
+                        Currently working at Doplexer Solutions as a PHP/Laravel Developer, creating efficient web
+                        applications.
+                    </p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-3">
                 <div class="skill-box">
-                    <small>2011 - 2014 (Ui designer)</small>
-                    <h5>Apple Product Co.</h5>
-                    <p>All you need to do your best work together in one package works seamlessly computer</p>
+                    <small>2023 - 2024 (PHP Developer)</small>
+                    <h5>NR Codex <br> (Software House)</h5>
+                    <p>
+                        {{--  All you need to do your best work together in one package works seamlessly computer  --}}
+                        Worked at NR Codex Software House as a PHP Developer, building efficient and seamless web
+                        solutions.
+                    </p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-3">
                 <div class="skill-box">
-                    <small>2011 - 2014 (Ui designer)</small>
-                    <h5>lead designer musicsoft</h5>
-                    <p>All you need to do your best work together in one package works seamlessly computer</p>
+                    <small>2024 - Present (Mern Stack)</small>
+                    <h5>Baitus Salam Tech Park</h5>
+                    <p>
+                        {{--  All you need to do your best work together in one package works seamlessly computer  --}}
+                        Currently pursuing a MERN Stack Development course at Baitus Salam Tech Park to master
+                        full-stack development skills.
+                    </p>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-3">
                 <div class="skill-box">
-                    <small>2011 - 2014 (Ui designer)</small>
-                    <h5>lBruno Mars As.</h5>
-                    <p>All you need to do your best work together in one package works seamlessly computer</p>
+                    <small>2023 - 2023 (Web Developer)</small>
+                    <h5>The Hunar Foundation</h5>
+                    <p>
+                        {{--  All you need to do your best work together in one package works seamlessly computer  --}}
+                        Completed an Advanced Web Development course at The Hunar Foundation, enhancing skills in modern
+                        web technologies.
+                    </p>
                 </div>
             </div>
         </div>
     </div>
-    <div class="space-100"></div>
+    {{--  <div class="space-100"></div>  --}}
     <!-- Start Technical Skills Section -->
-    <div class="skill__circles">
+    {{--  <div class="skill__circles">
         <div class="container">
             <div class="row">
                 <div class="colsm6 col-lg-3 text-center">
@@ -78,5 +97,5 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>  --}}
 </div>
