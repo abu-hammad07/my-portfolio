@@ -66,7 +66,7 @@
             </div>
         </div>
     </div>
-    {{--  <div class="space-100"></div>  --}}
+    <div class="space-100"></div>
     <!-- Start Technical Skills Section -->
     {{--  <div class="skill__circles">
         <div class="container">

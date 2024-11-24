@@ -9,8 +9,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Abu Hammad | Portfolio | Driven by Passion, Focused on Results">
-    <meta name="keywords" content="Abu Hammad | Portfolio">
+    <meta name="keywords" content="abuhammad, hammadkamalportfolio, Portfolio, abuhammad">
     <meta name="author" content="Abu Hammad | Portfolio">
+    <meta name="robots" content="Abu Hammad, Portfolio, Driven by Passion, Focused on Results">
     <!--::::: support meta :::::::-->
 
     <!--::::: Favicon :::::::-->
